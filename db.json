@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 7,
+      "text": "Bu bir veri tabanı denemesidir 1"
+    },
+    {
+      "id": 2,
+      "rating": 4,
+      "text": "Bu bir veri tabanı denemesidir 2"
+    },
+    {
+      "text": "Bu bir veri tabanı denemesidir test",
+      "rating": 3,
+      "id": 3
+    },
+    {
+      "text": "düzeltmeeeee",
+      "rating": 3,
+      "id": 4
+    }
+  ]
+}
